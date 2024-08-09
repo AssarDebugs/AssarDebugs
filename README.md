@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [BigFoundation](https://bigfoundation.vercel.app/)
-
 - 🌱 I’m currently learning **Java , C++**
 
 - 💬 Ask me about **- Full Stack Development - MERN Stack (MongoDB, Express.js, React, Node.js) - Building scalable and responsive web applications - API design and integration - Database architecture and optimization - Frontend and Backend technologies - Software development best practices - Code reviews and collaboration - Open-source contributions**
